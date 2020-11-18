@@ -1,0 +1,4 @@
+TODO
+
+lage klasser til pipeline
+sette sammen pipeline
